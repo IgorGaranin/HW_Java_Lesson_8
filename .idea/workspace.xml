@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8abe61d5-35b0-42b4-9ce1-7df63dda8f79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/Programm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/FigureRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/study/Programm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Programm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/study/Programm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/study/Programm.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -39,6 +44,26 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Programm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.Programm" />
+      <module name="HW_Java_Lesson_8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Programm" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674411300892</updated>
-      <workItem from="1674411302571" duration="2237000" />
+      <workItem from="1674411302571" duration="9134000" />
     </task>
     <servers />
   </component>
